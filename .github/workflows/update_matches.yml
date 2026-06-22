@@ -1,0 +1,32 @@
+name: Update Matches Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # يعمل كل 10 دقائق
+  workflow_dispatch: # يتيح لك تشغيله يدوياً للتجربة
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/checkout@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install axios cheerio
+
+      - name: Run Scraper
+        run: node index.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add matches.json
+          git commit -m "Update matches data [skip ci]" || exit 0
+          git push

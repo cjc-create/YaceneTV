@@ -1,53 +1,5 @@
 [
   {
-    "team1": "تونس",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23a13108.png",
-    "team2": "هولندا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23a194eb.png",
-    "time": "2:00 AM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 3",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax3/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max3/master.m3u8"
-  },
-  {
-    "team1": "اليابان",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23b01661.png",
-    "team2": "السويد",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23b07599.png",
-    "time": "2:00 AM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 4",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax4/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max4/master.m3u8"
-  },
-  {
-    "team1": "تركيا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23be5a91.png",
-    "team2": "أمريكا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23bed862.png",
-    "time": "5:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
-  },
-  {
-    "team1": "باراغواي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23cd5035.png",
-    "team2": "أستراليا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23cdb4a9.png",
-    "time": "5:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
-  },
-  {
     "team1": "النرويج",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23dc1c24.png",
     "team2": "فرنسا",
@@ -57,7 +9,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "السنغال",
@@ -69,6 +21,54 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "تونس",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23a13108.png",
+    "team2": "هولندا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23a194eb.png",
+    "time": "2:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت (قناة جديدة مجانية)",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax3/",
+    "stream": "https://60cup.s3.us-east-2.amazonaws.com/max3/master.m3u8"
+  },
+  {
+    "team1": "اليابان",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23b01661.png",
+    "team2": "السويد",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23b07599.png",
+    "time": "2:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 4",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax4/",
+    "stream": "https://60cup.s3.us-east-2.amazonaws.com/max4/master.m3u8"
+  },
+  {
+    "team1": "تركيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23be5a91.png",
+    "team2": "أمريكا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23bed862.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "باراغواي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23cd5035.png",
+    "team2": "أستراليا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23cdb4a9.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   }
 ]

@@ -9,7 +9,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+    "stream": "https://64cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "السنغال",
@@ -21,7 +21,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://64cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "تونس",
@@ -57,7 +57,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://64cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "باراغواي",
@@ -69,6 +69,6 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://63cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+    "stream": "https://64cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   }
 ]

@@ -5,23 +5,11 @@
     "team2": "النمسا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a4459a953a4a.png",
     "time": "10:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
-  },
-  {
-    "team1": "بلجيكا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e49690169.png",
-    "team2": "السنغال",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e496968bf.png",
-    "time": "12:00 AM",
-    "status": "إنتهت المباراة",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/sp-player/max2/",
-    "stream": "https://aa.yallashoo.live/live/max2_hls.m3u8"
+    "stream": ""
   },
   {
     "team1": "أمريكا",
@@ -33,6 +21,6 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": ""
   }
 ]

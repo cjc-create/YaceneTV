@@ -4,12 +4,12 @@
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c76e5b.png",
     "team2": "مصر",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c7c8d2.png",
-    "time": "9:00 PM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
+    "time": "10:00 PM",
+    "status": "جارية الآن",
+    "channel": "بي إن سبورت (قناة جديدة مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://84cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "البرتغال",
@@ -33,6 +33,6 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://84cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   }
 ]

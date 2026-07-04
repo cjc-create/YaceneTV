@@ -1,17 +1,5 @@
 [
   {
-    "team1": "كندا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb318c8f.png",
-    "team2": "المغرب",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb320798.png",
-    "time": "8:00 PM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
-  },
-  {
     "team1": "باراغواي",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb43c1d2.png",
     "team2": "فرنسا",
@@ -41,6 +29,18 @@
     "team2": "غانا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb20c122.png",
     "time": "4:30 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": ""
+  },
+  {
+    "team1": "كندا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb318c8f.png",
+    "team2": "المغرب",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb320798.png",
+    "time": "8:00 PM",
     "status": "إنتهت المباراة",
     "channel": "beIN Max 1",
     "league": "كأس العالم",

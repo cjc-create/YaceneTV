@@ -1,5 +1,17 @@
 [
   {
+    "team1": "باراغواي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb43c1d2.png",
+    "team2": "فرنسا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb44350e.png",
+    "time": "12:00 AM",
+    "status": "جارية الآن",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": ""
+  },
+  {
     "team1": "البرازيل",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a49306381577.png",
     "team2": "النرويج",

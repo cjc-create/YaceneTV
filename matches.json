@@ -1,26 +1,26 @@
 [
   {
-    "team1": "البرازيل",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a49306381577.png",
-    "team2": "النرويج",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a49306388018.png",
-    "time": "11:00 PM",
-    "status": "جارية الآن",
+    "team1": "المكسيك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497ab9f10c1.png",
+    "team2": "إنجلترا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497aba04203.png",
+    "time": "3:00 AM",
+    "status": "لم تبدأ بعد",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": ""
+  },
+  {
+    "team1": "البرتغال",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497abb1e98f.png",
+    "team2": "إسبانيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497abb2579b.png",
+    "time": "10:00 PM",
+    "status": "لم تبدأ بعد",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://87cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
-  },
-  {
-    "team1": "باراغواي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb43c1d2.png",
-    "team2": "فرنسا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a474fb44350e.png",
-    "time": "12:00 AM",
-    "status": "إنتهت المباراة",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "",
     "stream": ""
   }
 ]

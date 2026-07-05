@@ -5,11 +5,11 @@
     "team2": "النرويج",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a49306388018.png",
     "time": "11:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://87cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "باراغواي",

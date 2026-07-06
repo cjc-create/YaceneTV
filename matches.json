@@ -1,17 +1,5 @@
 [
   {
-    "team1": "المكسيك",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497ab9f10c1.png",
-    "team2": "إنجلترا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497aba04203.png",
-    "time": "4:00 AM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": ""
-  },
-  {
     "team1": "البرتغال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497abb1e98f.png",
     "team2": "إسبانيا",
@@ -21,6 +9,18 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": ""
+  },
+  {
+    "team1": "المكسيك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497ab9f10c1.png",
+    "team2": "إنجلترا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a497aba04203.png",
+    "time": "4:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
     "stream": ""
   }
 ]
